@@ -1,8 +1,7 @@
 💥4GTV频道｜测试,#genre#
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 民视新闻4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv13
 东森新闻4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
 tvbs新闻4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
@@ -93,15 +92,33 @@ Ginx_TV4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 
 
 💥台灣250306,#genre#
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
-中天新聞台(備),http://live.iill.top/youtube/vr3XyVCR4T0
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
-台視新聞,http://live.iill.top/youtube/@TTV_NEWS/live
-中視新聞,http://live.iill.top/youtube/@twctvnews/live
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
+民視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20097
+中天綜合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
+三立綜合,http://108.181.21.27:27347/livehttpplay?channel_id=12038
+三立戲劇,http://108.181.21.27:27347/livehttpplay?channel_id=10125
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8#http://108.181.21.27:27347/livehttpplay?channel_id=20068
+八大第一,http://108.181.21.27:27347/livehttpplay?channel_id=20073#http://61.221.215.25:8800/hls/55/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8#http://61.221.215.25:8800/hls/41/index.m3u8#http://61.221.215.25:8800/hls/41/index.m3u8
+八大精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20052
+TVBS,http://108.181.21.27:27347/livehttpplay?channel_id=20085
+TVBS歡樂,http://108.181.21.27:27347/livehttpplay?channel_id=20105
+TVBS精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20136
+緯來體育,http://108.181.21.27:27347/livehttpplay?channel_id=20120
+中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
+中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+鋼琴音樂,http://61.221.215.25:8800/hls/49/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
+尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
+
 民視,rtmp://f13h.mine.nu/sat/tv051
 台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -141,10 +158,9 @@ GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 
 💝TW250116,#genre#
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 東森新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
 TVBS新聞,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072
 TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8#http://61.221.215.25:8800/hls/9/index.m3u8#http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8#http://125.227.210.55:8186/VideoInput/play.ts#https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072#http://61.221.215.25:8800/hls/9/index.m3u8#http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8#http://125.227.210.55:8186/VideoInput/play.ts
@@ -180,6 +196,9 @@ TVBS歡樂,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv068
 GOODTV經典音樂河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 港台頻道,#genre#
 寰宇新聞,http://122.117.109.23:8570/http/61.67.128.137:8088/hls/76/818/ch62.m3u8
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 民視第一台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv003
 靖天戲劇,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv058
 靖天日本,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv047
@@ -250,15 +269,12 @@ AMC電影,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv017
 
 
 💝Live-AKTV,#genre#
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://litv.zapi.us.kg/?id=-010
-TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞台,http://litv.zapi.us.kg/?id=-072
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -404,11 +420,9 @@ Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 
 💝litv241127,#genre#
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
-TVBS新聞台,http://litv.zapi.us.kg/?id=-072
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://litv.zapi.us.kg/?id=-010
 非凡新聞,http://litv.zapi.us.kg/?id=-010
@@ -500,10 +514,9 @@ Amc電影頻道,http://211.72.65.236:8583/http/61.67.128.137:8092/upload/115/AMC
 
 
 💝litv.zapi,#genre#
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 TVBS新聞台,http://litv.zapi.us.kg/?id=-072
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,http://litv.zapi.us.kg/?id=-010
@@ -591,10 +604,9 @@ Ginx_TV,http://litv.zapi.us.kg/?id=-053
 
 
 💝Litv頻道💝全網,#genre#
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 鏡新聞,https://litv.zapi.us.kg/?id=-075
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞台,http://litv.zapi.us.kg/?id=-072
@@ -686,10 +698,9 @@ Smart知識台,https://litv.zapi.us.kg/?id=litv-longturn19
 
 
 💝灣灣頻道,#genre#
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 CTV中視HD,rtmp://f13h.mine.nu/sat/tv091
 CTS華視HD,rtmp://f13h.mine.nu/sat/tv111
 台視HD,rtmp://f13h.mine.nu/sat/tv071
