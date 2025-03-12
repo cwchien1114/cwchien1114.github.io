@@ -1,3 +1,97 @@
+💝148彎彎,#genre#
+寰宇新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
+寰宇新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
+東森新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8
+東森新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8
+東森財經新聞 ETTV Business,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvcaijing_twn/playlist.m3u8
+寰宇財經,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyutaiwan_twn/playlist.m3u8
+中天新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctinews/playlist.m3u8
+中天亞洲,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8
+TVBS新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8#http://122.117.71.103:8543/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+TVBS新聞,http://122.117.71.103:8543/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+TVBSNews,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
+台視新聞台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
+民視新聞台 FTV News,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvnew_taiwan/playlist.m3u8
+民視台灣台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvtaiwan_twn/playlist.m3u8
+非凡新聞台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/feifannews_twn/playlist.m3u8
+年代新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
+TVBS 歡樂台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs/playlist.m3u8
+中天娛樂 CTI Entertaiment,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctient/playlist.m3u8
+中天綜合 CTI Metro,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctizhonghe/playlist.m3u8
+台視 TTV HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttv_taiwan/playlist.m3u8
+中視 HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshihd_twn/playlist.m3u8
+民視 HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
+華視 CTS HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctshd_twn/playlist.m3u8
+公視 CTV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctv_taiwan/playlist.m3u8
+八大第一 GTV First,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badafirst/playlist.m3u8
+八大綜合 GTV Metro,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badazhonghe/playlist.m3u8
+八大戲劇 GTV Drama,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badadrama/playlist.m3u8
+八大娛樂 GTV Entertainment,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badaentertain/playlist.m3u8
+HBO_HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
+HBO_HITS,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohits_twn/playlist.m3u8
+Hollywood Movies,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hollywoodmovies_twn/playlist.m3u8
+三立台灣 Sanli Taiwan,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
+三立戲劇台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
+三立綜合 Sanli Metro,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlizhonghe/playlist.m3u8
+東森綜合 ETTV Metro,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvzhonghe/playlist.m3u8
+東森戲劇 ETTV Drama,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvdrama/playlist.m3u8
+大愛1台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/daai_twn/playlist.m3u8
+龍華戲劇 Lunghua Drama,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
+龍華戲劇台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
+龍華偶像,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaidol_twn/playlist.m3u8
+AXN Taiwan,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/playlist.m3u8
+靖天國際台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtianintl_twn/playlist.m3u8
+緯來日本台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandjapan/playlist.m3u8
+緯來體育台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
+緯來綜合台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandzonghe/playlist.m3u8
+大愛2台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
+亞洲美食,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/afc_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/afc_twn/playlist.m3u8
+美食星球,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8
+亞洲旅遊 TLC Asia,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8
+東森電影 ETTV Movie,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
+阿里郎 Arirang,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/arirang_twn/playlist.m3u8
+博斯運動 1,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport1_twn/playlist.m3u8
+博斯運動 2,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosigolf2_twn/playlist.m3u8
+博斯網球 HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bositennis_twn/playlist.m3u8
+東森洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8
+龍華洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8
+博斯無限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosiunlimited_twn/playlist.m3u8
+MTV Live,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
+龍詳時代,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8/playlist.m3u8
+EYETV 旅遊,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eyetvtravel_twn/playlist.m3u8
+靖天卡通台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
+EYETV 戲劇,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eyetvxiju_twn/playlist.m3u8
+衛視中文台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishichinese_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishichinese_twn/playlist.m3u8
+東森幼幼 Yoyo TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
+美亞電影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
+愛爾達影劇台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltayingju_twn/playlist.m3u8
+星衛電影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
+愛爾達影劇,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltayingju_twn/playlist.m3u8
+愛爾達體育2台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport2_twn/playlist.m3u8
+愛爾達體育3台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport3_twn/playlist.m3u8
+AFC 亞洲旅遊台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8
+大愛2台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
+東森電影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
+東森洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8
+龍華洋片,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8
+龍詳時代,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8/playlist.m3u8
+Animax,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Animax/playlist.m3u8
+Movies Now HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/moviesnow_raj/playlist.m3u8
+Star Movies HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/starmovies_raj/playlist.m3u8
+衛視中文台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishichinese_twn/playlist.m3u8
+HBO Family,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
+HBO HD,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
+Warner TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/WarnerTV/playlist.m3u8
+美亞電影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
+星衛電影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
+亞洲美食,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/afc_twn/playlist.m3u8
+美食星球,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8
+亞洲旅遊 TLC Asia,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8
+靖天卡通台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
+
+
 💥4GTV频道｜测试,#genre#
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
@@ -96,12 +190,11 @@ Ginx_TV4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 
 
 💥台灣250306,#genre#
-寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
-寰宇新聞,http://live.iill.top/youtube/@globalnewstw/live
-TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
-三立新聞,http://live.iill.top/youtube/@setnews/live
-鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
-年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+TW250306.#genre#
+寰宇新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+東森新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8
+年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8#http://122.117.71.103:8538/http/61.222.53.250:8081/hls/67/809/ch27.m3u8
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
 民視新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20097
@@ -109,15 +202,14 @@ TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
 三立綜合,http://108.181.21.27:27347/livehttpplay?channel_id=12038
 三立戲劇,http://108.181.21.27:27347/livehttpplay?channel_id=10125
 八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8#http://108.181.21.27:27347/livehttpplay?channel_id=20068
-八大第一,http://108.181.21.27:27347/livehttpplay?channel_id=20073#http://61.221.215.25:8800/hls/55/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大第一,http://108.181.21.27:27347/livehttpplay?channel_id=20073#http://61.221.215.25:8800/hls/55/index.m3u8#http://61.221.215.25:8800/hls/55/index.m3u8#http://61.221.215.25:8800/hls/55/index.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8#http://61.221.215.25:8800/hls/41/index.m3u8#http://61.221.215.25:8800/hls/41/index.m3u8
 八大精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20052
 TVBS,http://108.181.21.27:27347/livehttpplay?channel_id=20085
 TVBS歡樂,http://108.181.21.27:27347/livehttpplay?channel_id=20105
 TVBS精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20136
 緯來體育,http://108.181.21.27:27347/livehttpplay?channel_id=20120
-中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
+中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8#http://61.221.215.25:8800/hls/47/index.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -127,7 +219,6 @@ AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 CN卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 尼克卡通,http://108.181.21.27:27347/livehttpplay?channel_id=20089
-
 民視,rtmp://f13h.mine.nu/sat/tv051
 台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
@@ -792,46 +883,5 @@ GTV八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8#http://61.221.2
 GOODTV卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOOD2TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
-
-
-💝測壹頻道,#genre#
-寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-中視菁采,http://litv.zapi.us.kg/?id=-064
-中視經典,http://litv.zapi.us.kg/?id=-080
-台視財經,http://litv.zapi.us.kg/?id=-056
-公視戲劇,http://litv.zapi.us.kg/?id=-042
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-GTV八大第1台HD,http://61.221.215.25:8800/hls/55/index.m3u8
-GTV八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8
-三立台灣,https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8#https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8#https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8#https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8
-三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
-豬哥亮歌廳國,http://37.27.111.214:8080/live/35/hls.m3u8
-亞洲旅遊,http://37.27.111.214:8080/live/10/hls.m3u8
-博斯高球,http://37.27.111.214:8080/live/13/hls.m3u8
-博斯運動,http://37.27.111.214:8080/live/14/hls.m3u8
-博斯無限,http://37.27.111.214:8080/live/15/hls.m3u8
-HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
-HITs電影,http://37.27.111.214:8080/live/28/hls.m3u8
-CINEMA,http://37.27.111.214:8080/live/30/hls.m3u8
-龍華電影,http://37.27.111.214:8080/live/19/hls.m3u8
-緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
-緯來日本,rtmp://f13h.mine.nu:1935/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu:1935/sat/tv701
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-東森超視,rtmp://f13h.mine.nu:1935/sat/tv331
-Mo綜合,rtmp://f13h.mine.nu:1935/sat/tv761
-AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
-大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
-探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 
 
