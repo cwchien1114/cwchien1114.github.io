@@ -1,5 +1,5 @@
 💥4GTV频道｜测试,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -92,7 +92,7 @@ Ginx_TV4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 
 
 💥台灣250306,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -159,7 +159,7 @@ GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/l
 GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 
 💝TW250116,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -199,7 +199,7 @@ GOODTV經典音樂河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_defi
 
 
 💥港台頻道,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -273,7 +273,7 @@ AMC電影,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv017
 
 
 💝Live-AKTV,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -425,7 +425,7 @@ Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 
 
 💝litv241127,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -520,7 +520,7 @@ Amc電影頻道,http://211.72.65.236:8583/http/61.67.128.137:8092/upload/115/AMC
 
 
 💝litv.zapi,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -610,7 +610,7 @@ Ginx_TV,http://litv.zapi.us.kg/?id=-053
 
 
 💝Litv頻道💝全網,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -705,7 +705,7 @@ Smart知識台,https://litv.zapi.us.kg/?id=litv-longturn19
 
 
 💝灣灣頻道,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -775,7 +775,7 @@ GOOD2TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent
 
 
 💝測壹頻道,#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 台視,rtmp://f13h.mine.nu:1935/sat/tv071
 中視菁采,http://litv.zapi.us.kg/?id=-064
