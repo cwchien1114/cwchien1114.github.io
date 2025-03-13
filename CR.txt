@@ -91,6 +91,178 @@ Warner TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Warner
 亞洲旅遊 TLC Asia,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8
 靖天卡通台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
 
+148閩南頻限,#genre#
+寰宇新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
+寰宇財經頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyutaiwan_twn/playlist.m3u8
+東森新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8
+tvbs新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
+tvbs閩南頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs/playlist.m3u8
+年代新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8
+中視新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshinews_twn/playlist.m3u8
+民視新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvnew_taiwan/playlist.m3u8
+公視閩南頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctv_taiwan/playlist.m3u8
+民視閩南頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
+中視閩南頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhongshihd_twn/playlist.m3u8
+華視閩南頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctshd_twn/playlist.m3u8
+台視閩南頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttv_taiwan/playlist.m3u8
+民視台灣頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvtaiwan_twn/playlist.m3u8
+tvbs歡樂頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbshuanle_twn/playlist.m3u8
+緯來綜合頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandzonghe/playlist.m3u8
+緯來日本頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandjapan/playlist.m3u8
+龍華戲劇頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaxiju_twn/playlist.m3u8
+龍華偶像頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaidol_twn/playlist.m3u8
+龍華洋片頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuawestern_twn/playlist.m3u8
+龍華電影頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/xingwei_movie/playlist.m3u8
+東森幼幼頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/yoyo_twn/playlist.m3u8
+東森綜合頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvzhonghe/playlist.m3u8
+東森財經頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvcaijing_twn/playlist.m3u8
+東森電影頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
+東森洋片頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvwestern/playlist.m3u8
+八大第一頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badafirst/playlist.m3u8
+八大綜合頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/badazhonghe/playlist.m3u8
+三立綜合頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlizhonghe/playlist.m3u8
+三立戲劇頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
+三立台灣頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlitaiwan/playlist.m3u8
+中天綜合頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctizhonghe/playlist.m3u8
+中天亞洲頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8
+華藝中文頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/weishichinese_twn/playlist.m3u8
+大愛壹台頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/daai_twn/playlist.m3u8
+大愛貳台頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/catchplay_twn/playlist.m3u8
+阿里郎頻道限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/arirang_twn/playlist.m3u8
+靖天國際頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtianintl_twn/playlist.m3u8
+靖天卡通頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
+美亞電影頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
+龍祥電影頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lungxiangtime_twn/playlist.m3u8/playlist.m3u8
+好萊塢電影限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hollywoodmovies_twn/playlist.m3u8
+AXN電影頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_twn/playlist.m3u8
+HBOFamily限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbofamily/playlist.m3u8
+HBO頻道頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Hbo/playlist.m3u8
+HBO強檔頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohd_twn/playlist.m3u8
+HBO原創頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohits_twn/playlist.m3u8
+CINE_MAX限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/cinemax_twn/playlist.m3u8
+mtv頻道頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/mtvhd_twn/playlist.m3u8
+WARNER頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/WarnerTV/playlist.m3u8
+StarMovies限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/starmovies_raj/playlist.m3u8
+EYE-戲劇頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eyetvxiju_twn/playlist.m3u8
+美食星球頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8
+亞洲美食頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/afc_twn/playlist.m3u8
+亞洲旅遊壹限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8
+亞洲旅遊貳限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/asiatravel_twn/playlist.m3u8
+愛爾達影劇限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltayingju_twn/playlist.m3u8
+愛爾達貳頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/eltasport2_twn/playlist.m3u8
+緯來體育頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
+博斯高球貳限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosigolf2_twn/playlist.m3u8
+博斯網球頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bositennis_twn/playlist.m3u8
+博斯無限壹限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosiunlimited_twn/playlist.m3u8
+博斯運動壹限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport1_twn/playlist.m3u8
+博斯運動貳限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8
+
+
+108&61&37彎彎,#genre#
+寰宇新聞頻晴,P2p://starvod.xyz:19806/6d0911b11be041bbba3bf911b1bb6167
+寰宇閩南頻晴,P2p://starvod.xyz:19806/806f2275ac404453a4539e091e0a2a82
+非凡新聞頻晴,P2p://starvod.xyz:19806/843f09b6643145828c29cb2e3dff9dac
+非凡新聞頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20034
+閩壹新聞頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+tvbs閩南頻晴,P2p://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac
+年代新聞頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+今日新聞頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20043
+民視閩南頻道,rtmp://f13h.mine.nu/sat/tv051#http://37.27.111.214:8080/live/6/hls.m3u8
+中視閩南頻道,rtmp://f13h.mine.nu/sat/tv091#http://37.27.111.214:8080/live/7/hls.m3u8
+華視閩南頻道,rtmp://f13h.mine.nu/sat/tv111#http://37.27.111.214:8080/live/8/hls.m3u8
+台視閩南頻道,rtmp://f13h.mine.nu/sat/tv071
+東森超視頻道,rtmp://f13h.mine.nu/sat/tv331
+民視閩南頻道,http://37.27.111.214:8080/live/6/hls.m3u8
+中視閩南頻道,http://37.27.111.214:8080/live/7/hls.m3u8
+華視閩南頻道,http://37.27.111.214:8080/live/8/hls.m3u8
+tvbs閩南頻特,http://61.221.215.25:8800/hls/9/index.m3u8
+三立戲劇頻特,http://61.221.215.25:8800/hls/41/index.m3u8
+八大戲劇頻特,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第一頻特,http://61.221.215.25:8800/hls/55/index.m3u8
+八大綜合頻特,http://61.221.215.25:8800/hls/56/index.m3u8
+中天娛樂頻特,http://61.221.215.25:8800/hls/47/index.m3u8
+民視新聞頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20097
+公視閩南頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20087
+tvbs閩南頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20085
+tvbs歡樂頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20105
+tvbs精彩頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20136
+三立戲劇頻標,http://108.181.21.27:27347/livehttpplay?channel_id=10125
+中天綜合頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20064
+八大綜合頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20068
+八大第一頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20073
+八大精彩頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20052
+東森財經頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20078
+美亞電影頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20197
+龍華電影頻標,http://108.181.21.27:27347/livehttpplay?channel_id=10129
+龍華電影頻高,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龍華經典頻高,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龍華卡通頻高,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龍華偶像頻高,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龍華日韓頻高,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龍華戲劇頻高,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龍華洋片頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20090
+Fgm電影頻標,http://108.181.21.27:27347/livehttpplay?channel_id=10123
+CNN新聞頻標,http://108.181.21.27:27347/livehttpplay?channel_id=10123
+cn卡通頻道高,http://108.181.21.27:27347/livehttpplay?channel_id=20048
+尼克卡通頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20089
+緯來精彩頻特,http://61.221.215.25:8800/hls/48/index.m3u8
+動物星球頻國,http://61.221.215.25:8800/hls/57/index.m3u8
+緯來育樂頻特,rtmp://f13h.mine.nu/sat/tv701
+緯來日本頻特,rtmp://f13h.mine.nu/sat/tv771
+緯來體育頻特,rtmp://f13h.mine.nu/sat/tv721
+amc電影頻英,http://61.221.215.25:8800/hls/43/index.m3u8
+ASC搜索頻英,http://61.221.215.25:8800/hls/50/index.m3u8
+Diso綜合頻英,http://61.221.215.25:8800/hls/1/index.m3u8
+momoTV頻特,rtmp://f13h.mine.nu/sat/tv761
+博斯高球壹標,http://108.181.21.27:27347/livehttpplay?channel_id=20103
+博斯高球貳標,http://108.181.21.27:27347/livehttpplay?channel_id=20117
+博斯運動貳標,http://108.181.21.27:27347/livehttpplay?channel_id=20311
+龍華洋片頻道,http://37.27.111.214:8080/live/19/hls.m3u8
+豬哥亮歌廳國,http://37.27.111.214:8080/live/35/hls.m3u8
+亞洲旅遊頻道,http://37.27.111.214:8080/live/10/hls.m3u8
+博斯高球頻壹,http://37.27.111.214:8080/live/13/hls.m3u8
+博斯運動頻壹,http://37.27.111.214:8080/live/14/hls.m3u8
+博斯無限頻道,http://37.27.111.214:8080/live/15/hls.m3u8
+HISTORY頻道,http://37.27.111.214:8080/live/27/hls.m3u8
+HITs電影頻道,http://37.27.111.214:8080/live/28/hls.m3u8
+CINEMA-頻道,http://37.27.111.214:8080/live/30/hls.m3u8
+
+
+P2P閩南頻晴,#genre#
+寰宇新聞頻晴,P2p://starvod.xyz:19806/6d0911b11be041bbba3bf911b1bb6167
+非凡新聞頻晴,P2p://starvod.xyz:19806/843f09b6643145828c29cb2e3dff9dac
+中視新聞頻晴,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4
+華視新聞頻晴,P2p://starvod.xyz:19806/fc3998cc8d7d4608bc9d0ade911c3a76
+台視新聞頻晴,P2p://starvod.xyz:19806/2e9ca06c53c84603ac0230e459ebafd1
+寰宇閩南頻晴,P2p://starvod.xyz:19806/806f2275ac404453a4539e091e0a2a82
+tvbs閩南頻晴,P2p://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac
+公視閩南頻晴,P2p://starvod.xyz:19806/c83173edb08c49bfa83c7180ca12e57f
+靖天國際頻晴,P2p://starvod.xyz:19806/dd4a46925d6549369b0c6b6465c73302
+霹靂台灣頻晴,P2p://starvod.xyz:19806/83e52984f01f4f7d9132a1f7e4357f10
+居家樂活頻晴,P2p://starvod.xyz:19806/401f798bcffe4e0cae2e76ce5f833e97
+美食星球頻晴,P2p://starvod.xyz:19806/47a69c2854f64e41afd35bbd05c1ba2c
+亞洲美食頻晴,P2p://starvod.xyz:19806/47505b89245341cd83ab1acc53898663
+好消息壹台晴,P2p://starvod.xyz:19806/a93333ec07db44f69ddee4a610585347
+靖天資訊頻晴,P2p://starvod.xyz:19806/d07b3592bf284ef4a25a99b84aecf4d0
+靖天綜合頻晴,P2p://starvod.xyz:19806/d40a8025b60543aab57a0abbc49c6cb6
+客家電視頻晴,P2p://starvod.xyz:19806/b78cb178cf9f4aacae4fb6a76b599588
+龍華戲劇頻晴,P2p://starvod.xyz:19806/c01e140674374ad1801668e99b3f0b89
+非凡商業頻晴,P2p://starvod.xyz:19806/409e71d738aa4803b297adf29dc01738
+公視三台頻晴,P2p://starvod.xyz:19806/aac3178ca641405299c1fc9eee4bfe10
+ELtv生活頻晴,P2p://starvod.xyz:19806/1ed5f658ab684562b2a92c527efa85f7
+靖洋卡通頻晴,P2p://starvod.xyz:19806/23377ae77adc43c6980b1c6c23f018c9
+靖天卡通頻晴,P2p://starvod.xyz:19806/9b96baec9941499fbe6b6ffd8626a9f9
+Nick頻道頻晴,P2p://starvod.xyz:19806/8800b8a66c164937a3c6e5b7a8d43385
+MEzzOLive晴,P2p://starvod.xyz:19806/c8b968009729411cbfeb332cbd996dc4
+HBO強檔頻晴,P2p://starvod.xyz:19806/f830f1af73da43b18542d3579480aaa9
+罪案偵緝頻晴,P2p://starvod.xyz:19806/8452b92159ff4796ae7fbfebf9739782
+東風衛視頻晴,P2p://starvod.xyz:19806/c2269a995dbc4e2eb643c14aaf4c2014
+EYE-戲劇頻晴,P2p://starvod.xyz:19806/23005fa36e4f4bc2834abf172daf0121
+愛爾達影視晴,P2p://starvod.xyz:19806/c97659004f8341bbad994e58bb9f1be2
+愛爾達壹頻晴,P2p://starvod.xyz:19806/382c4d85d0db4899ba9802441c22901f#P2p://starvod.xyz:19806/6649ae4b8a9146299534f7d5342d4085#P2p://starvod.xyz:19806/6649ae4b8a9146299534f7d5342d4085
+愛爾達肆頻晴,P2p://starvod.xyz:19806/0c4a3e394103477394f366c60f53eb33
+
+
 
 💥4GTV频道｜测试,#genre#
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
