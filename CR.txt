@@ -91,7 +91,7 @@ Warner TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Warner
 亞洲旅遊 TLC Asia,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tlc_twn/playlist.m3u8
 靖天卡通台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
 
-148閩南頻限,#genre#
+💝148閩南頻限,#genre#
 寰宇新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
 寰宇財經頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyutaiwan_twn/playlist.m3u8
 東森新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8
@@ -158,7 +158,7 @@ EYE-戲劇頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278
 博斯運動貳限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8
 
 
-108&61&37彎彎,#genre#
+💝108&61&37彎彎,#genre#
 寰宇新聞頻晴,P2p://starvod.xyz:19806/6d0911b11be041bbba3bf911b1bb6167
 寰宇閩南頻晴,P2p://starvod.xyz:19806/806f2275ac404453a4539e091e0a2a82
 非凡新聞頻晴,P2p://starvod.xyz:19806/843f09b6643145828c29cb2e3dff9dac
@@ -228,7 +228,7 @@ HITs電影頻道,http://37.27.111.214:8080/live/28/hls.m3u8
 CINEMA-頻道,http://37.27.111.214:8080/live/30/hls.m3u8
 
 
-P2P閩南頻晴,#genre#
+💝P2P閩南頻晴,#genre#
 寰宇新聞頻晴,P2p://starvod.xyz:19806/6d0911b11be041bbba3bf911b1bb6167
 非凡新聞頻晴,P2p://starvod.xyz:19806/843f09b6643145828c29cb2e3dff9dac
 中視新聞頻晴,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4
