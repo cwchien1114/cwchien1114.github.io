@@ -304,6 +304,7 @@ MEZZOl4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv083
 Ginx_TV4Gtv,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv053
 
 💝TW250306.#genre#
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 寰宇新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8#http://222.128.55.152:9080/live/hy.m3u8#https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#http://live.iill.top/youtube/@globalnewstw/live#https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#http://live.iill.top/youtube/@globalnewstw/live#https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#http://222.128.55.152:9080/live/hy.m3u8
 東森新聞,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8#https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv152
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033#http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/niandainews_twn/playlist.m3u8#http://122.117.71.103:8538/http/61.222.53.250:8081/hls/67/809/ch27.m3u8#http://108.181.21.27:27347/livehttpplay?channel_id=20033#http://108.181.21.27:27347/livehttpplay?channel_id=20033#http://108.181.21.27:27347/livehttpplay?channel_id=20033#http://108.181.21.27:27347/livehttpplay?channel_id=20033#http://108.181.21.27:27347/livehttpplay?channel_id=20033#http://108.181.21.27:27347/livehttpplay?channel_id=20033#http://108.181.21.27:27347/livehttpplay?channel_id=20033
@@ -359,7 +360,7 @@ GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/l
 
 
 💝TW250116,#genre#
-寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live#http://61.221.215.25:8800/hls/9/index.m3u8
 三立新聞,http://live.iill.top/youtube/@setnews/live
 鏡新聞,http://live.iill.top/youtube/@mnews-tw/live#http://live.iill.top/youtube/@mnews-tw/live
@@ -397,7 +398,7 @@ GOODTV經典音樂河,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_defi
 
 
 💝iptv頻道,#genre#
-寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#http://live.iill.top/youtube/@globalnewstw/live
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
 三立新聞,http://live.iill.top/youtube/@setnews/live
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
@@ -471,7 +472,7 @@ AMC電影,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv017
 
 
 💝LiveTV,#genre#
-寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#http://live.iill.top/youtube/@globalnewstw/live
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
 三立新聞,http://live.iill.top/youtube/@setnews/live
 鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
@@ -550,7 +551,7 @@ GOOD2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/l
 
 
 💝litv241127,#genre#
-寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
@@ -582,7 +583,7 @@ TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 💝灣灣頻道,#genre#
-寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 年代新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 壹新聞,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 東森財經,http://108.181.21.27:27347/livehttpplay?channel_id=20078
