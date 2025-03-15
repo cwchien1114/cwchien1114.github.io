@@ -81,7 +81,8 @@ Warner TV,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Warner
 
 💝148閩南頻限,#genre#
 寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-寰宇財經頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyutaiwan_twn/playlist.m3u8
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
+寰宇閩南頻晴,P2p://starvod.xyz:19806/806f2275ac404453a4539e091e0a2a82#P2p://starvod.xyz:19806/806f2275ac404453a4539e091e0a2a82
 東森新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvnews/playlist.m3u8
 tvbs新聞頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs_n/playlist.m3u8
 tvbs閩南頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbs/playlist.m3u8
