@@ -144,13 +144,18 @@ EYE-戲劇頻限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278
 博斯運動貳限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/bosisport2_twn/playlist.m3u8
 
 
-💝108&61&37彎彎,#genre#
+💝綜合彎彎,#genre#
 寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 寰宇閩南頻晴,P2p://starvod.xyz:19806/806f2275ac404453a4539e091e0a2a82#P2p://starvod.xyz:19806/806f2275ac404453a4539e091e0a2a82
 非凡新聞頻晴,P2p://starvod.xyz:19806/843f09b6643145828c29cb2e3dff9dac#P2p://starvod.xyz:19806/843f09b6643145828c29cb2e3dff9dac
 非凡新聞頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20034
 閩壹新聞頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20028
 tvbs閩南頻晴,P2p://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac#P2p://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac
+中視新聞頻晴,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4
+華視新聞頻晴,P2p://starvod.xyz:19806/fc3998cc8d7d4608bc9d0ade911c3a76
+台視新聞頻晴,P2p://starvod.xyz:19806/2e9ca06c53c84603ac0230e459ebafd1
+公視閩南頻晴,P2p://starvod.xyz:19806/c83173edb08c49bfa83c7180ca12e57f
 年代新聞頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20033
 今日新聞頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20043
 民視閩南頻道,rtmp://f13h.mine.nu/sat/tv051#http://37.27.111.214:8080/live/6/hls.m3u8#http://37.27.111.214:8080/live/6/hls.m3u8
@@ -169,6 +174,8 @@ tvbs閩南頻特,http://61.221.215.25:8800/hls/9/index.m3u8
 tvbs閩南頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20085
 tvbs歡樂頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20105
 tvbs精彩頻標,http://108.181.21.27:27347/livehttpplay?channel_id=20136
+靖天國際頻晴,P2p://starvod.xyz:19806/dd4a46925d6549369b0c6b6465c73302
+非凡商業頻晴,P2p://starvod.xyz:19806/409e71d738aa4803b297adf29dc01738
 三立戲劇頻標,http://108.181.21.27:27347/livehttpplay?channel_id=10125
 中天綜合頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 八大綜合頻高,http://108.181.21.27:27347/livehttpplay?channel_id=20068
@@ -193,6 +200,10 @@ cn卡通頻道高,http://108.181.21.27:27347/livehttpplay?channel_id=20048
 緯來日本頻特,rtmp://f13h.mine.nu/sat/tv771
 緯來體育頻特,rtmp://f13h.mine.nu/sat/tv721
 momoTV頻特,rtmp://f13h.mine.nu/sat/tv761
+居家樂活頻晴,P2p://starvod.xyz:19806/401f798bcffe4e0cae2e76ce5f833e97
+好消息壹台晴,P2p://starvod.xyz:19806/a93333ec07db44f69ddee4a610585347
+靖天資訊頻晴,P2p://starvod.xyz:19806/d07b3592bf284ef4a25a99b84aecf4d0
+ELtv生活頻晴,P2p://starvod.xyz:19806/1ed5f658ab684562b2a92c527efa85f7
 博斯高球壹標,http://108.181.21.27:27347/livehttpplay?channel_id=20103
 博斯高球貳標,http://108.181.21.27:27347/livehttpplay?channel_id=20117
 博斯運動貳標,http://108.181.21.27:27347/livehttpplay?channel_id=20311
@@ -206,22 +217,8 @@ HISTORY頻道,http://37.27.111.214:8080/live/27/hls.m3u8
 HITs電影頻道,http://37.27.111.214:8080/live/28/hls.m3u8
 CINEMA-頻道,http://37.27.111.214:8080/live/30/hls.m3u8
 
-
-💝P2P閩南頻晴,#genre#
-非凡新聞頻晴,P2p://starvod.xyz:19806/843f09b6643145828c29cb2e3dff9dac
-中視新聞頻晴,P2p://starvod.xyz:19806/60901e8b36254ffea76905ae140ec8e4
-華視新聞頻晴,P2p://starvod.xyz:19806/fc3998cc8d7d4608bc9d0ade911c3a76
-台視新聞頻晴,P2p://starvod.xyz:19806/2e9ca06c53c84603ac0230e459ebafd1
-寰宇閩南頻晴,P2p://starvod.xyz:19806/806f2275ac404453a4539e091e0a2a82
-tvbs閩南頻晴,P2p://starvod.xyz:19806/7f5153fe32e34c00b9597950419c56ac
-公視閩南頻晴,P2p://starvod.xyz:19806/c83173edb08c49bfa83c7180ca12e57f
-靖天國際頻晴,P2p://starvod.xyz:19806/dd4a46925d6549369b0c6b6465c73302
-居家樂活頻晴,P2p://starvod.xyz:19806/401f798bcffe4e0cae2e76ce5f833e97
-好消息壹台晴,P2p://starvod.xyz:19806/a93333ec07db44f69ddee4a610585347
-靖天資訊頻晴,P2p://starvod.xyz:19806/d07b3592bf284ef4a25a99b84aecf4d0
-非凡商業頻晴,P2p://starvod.xyz:19806/409e71d738aa4803b297adf29dc01738
-ELtv生活頻晴,P2p://starvod.xyz:19806/1ed5f658ab684562b2a92c527efa85f7
-??4GTV頻道?測試,
+💝4GTV頻道,#genre#
+寰宇新聞,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 寰宇新聞,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8#http://live.iill.top/youtube/@globalnewstw/live
 TVBS NEWS,http://live.iill.top/youtube/@TVBSNEWS01/live
 三立新聞,http://live.iill.top/youtube/@setnews/live
