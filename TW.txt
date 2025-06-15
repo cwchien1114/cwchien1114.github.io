@@ -11,8 +11,6 @@
 台视新闻台,http://www.xitv.top/021il.php?id=ttvnews_twn
 台视综合台,http://www.xitv.top/021il.php?id=ttvzhonghe
 tvbs news 新闻台,http://www.xitv.top/021il.php?id=tvbs_n
-iNews TV,http://www.xitv.top/021il.php?id=Inewstv
-inews 新闻台,http://www.xitv.top/021il.php?id=inews_twn
 TVBS HD,http://www.xitv.top/021il.php?id=tvbs
 tvbs 欢乐台 （备份）,http://www.xitv.top/021il.php?id=tvbshuanle_twn
 台视TTV HD,http://www.xitv.top/021il.php?id=ttv_taiwan
@@ -74,6 +72,8 @@ tvbs 欢乐台 （备份）,http://www.xitv.top/021il.php?id=tvbshuanle_twn
 爱尔达影剧台,http://www.xitv.top/021il.php?id=eltayingju_twn
 ELta娱乐标限,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
 爱奇艺 iQiyi,http://www.xitv.top/021il.php?id=Qiyi
+iNews TV,http://www.xitv.top/021il.php?id=Inewstv
+inews 新闻台,http://www.xitv.top/021il.php?id=inews_twn
 博斯高球2 hd,http://www.xitv.top/021il.php?id=bosigolf2_twn
 博斯网球 HD,http://www.xitv.top/021il.php?id=bositennis_twn
 博斯无限,http://www.xitv.top/021il.php?id=bosiunlimited_twn
