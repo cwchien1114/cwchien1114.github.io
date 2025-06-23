@@ -1,89 +1,95 @@
-💝台灣250615,#genre#
-寰宇新闻台,http://www.xitv.top/021il.php?id=huanyuxinwen_twn
-寰宇新闻高限,http://ali.hlspull.yximgs.com/live/b00e5a1c1ed0f660a39b04d0c6edef4c.flv
-寰宇财经,http://www.xitv.top/021il.php?id=huanyutaiwan_twn
-民视新闻台 ftv news,http://www.xitv.top/021il.php?id=ftvnew_taiwan
-年代新闻,http://www.xitv.top/021il.php?id=niandainews_twn
-东森财经新闻 ETTV Business,http://www.xitv.top/021il.php?id=ettvcaijing_twn
-东森新闻 ettv news,http://www.xitv.top/021il.php?id=ettvnews
-非凡新闻台,http://www.xitv.top/021il.php?id=feifannews_twn
-台视新闻台,http://www.xitv.top/021il.php?id=ttvnews_twn
-台视综合台,http://www.xitv.top/021il.php?id=ttvzhonghe
-tvbs news 新闻台,http://www.xitv.top/021il.php?id=tvbs_n
-TVBS HD,http://www.xitv.top/021il.php?id=tvbs
-tvbs 欢乐台 （备份）,http://www.xitv.top/021il.php?id=tvbshuanle_twn
-台视TTV HD,http://www.xitv.top/021il.php?id=ttv_taiwan
-公视 CTV,http://www.xitv.top/021il.php?id=ctv18_twn
-公视2,http://www.xitv.top/021il.php?id=ctv2_twn
-中视 HD,http://www.xitv.top/021il.php?id=zhongshihd_twn
-华视 CTS HD,http://www.xitv.top/021il.php?id=ctshd_twn
-民视第一标限,http://ali.hlspull.yximgs.com/live/awei_msdy.flv
-民视闽南标限,http://ali.hlspull.yximgs.com/live/awei_mstw.flv
-东森超视标限,http://ali.hlspull.yximgs.com/live/awei_dscs.flv
-东森综合高限,http://ali.hlspull.yximgs.com/live/awei_dszh.flv
-中天新闻021,http://www.xitv.top/021il.php?id=ctinews
-中天新闻ALI,http://ali.hlspull.yximgs.com/live/f46af3e15ee89e76d4d846ba04258ece.flv
-中天新闻4GT,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8
-中天新闻167,http://ali.hlspull.yximgs.com/live/167ztxw2.flv
-中天新闻高限,http://ali.hlspull.yximgs.com/live/f46af3e15ee89e76d4d846ba04258ece.flv
-中天新闻加限,http://ali.hlspull.yximgs.com/live/167ztxw2.flv
-中天新闻（较流畅）,http://www.xitv.top/021il.php?id=ctinews
-中天新闻（稳流畅）,http://www.xitv.top/021il.php?id=ctinews
-中天亚洲标限,http://ali.hlspull.yximgs.com/live/awei_ztyz.flv
-中天亚洲标限,http://ali.hlspull.yximgs.com/live/167ztyz.flv
-中天综合高限,http://ali.hlspull.yximgs.com/live/awei_ztzh.flv
-中天娱乐高限,http://ali.hlspull.yximgs.com/live/167ztyl.flv
-八大第一高限,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
-八大综合高限,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
-八大第一 gtv first,http://www.xitv.top/021il.php?id=badafirst
-八大戏剧 gtv drama,http://www.xitv.top/021il.php?id=badadrama
-八大娱乐 GTV Entertainment,http://www.xitv.top/021il.php?id=badaentertain
-八大综合 gtv metro,http://www.xitv.top/021il.php?id=badazhonghe
-美亚电影标清,http://www.xitv.top/021il.php?id=meiyamovie_twn
-美亚电影,http://www.xitv.top/021il.php?id=meiyamovie_twn
-东森电影,http://www.xitv.top/021il.php?id=ettvmovie
-东森洋片,http://www.xitv.top/021il.php?id=ettvwestern
-龙祥时代,http://www.xitv.top/021il.php?id=lungxiangtime_twn
-纬来电影台,http://www.xitv.top/021il.php?id=videolandmovie
-龙华电影,http://www.xitv.top/021il.php?id=xingwei_movie
-华丽台 HD （Wah Lai Toi）,http://www.xitv.top/021il.php?id=Wlt
-东森幼幼 yoyo tv,http://www.xitv.top/021il.php?id=yoyo_twn
-东森综合 ettv metro,http://www.xitv.top/021il.php?id=ettvzhonghe
-龙华偶像,http://www.xitv.top/021il.php?id=lunghuaidol_twn
-龙华戏剧 lunghua drama,http://www.xitv.top/021il.php?id=lunghuaxiju_twn
-龙华经典台,http://www.xitv.top/021il.php?id=lunghuajingdian_twn
-靖天国际台,http://www.xitv.top/021il.php?id=jingtianintl_twn
-靖天卡通台,http://www.xitv.top/021il.php?id=jingtiancartoon_twn
-美食星球,http://www.xitv.top/021il.php?id=foodplanet_twn
-民视台湾台,http://www.xitv.top/021il.php?id=ftvtaiwan_twn
-三立台湾 sanli taiwan,http://www.xitv.top/021il.php?id=sanlitaiwan
-三立戏剧台,http://www.xitv.top/021il.php?id=sanlixiju_twn
-台视综合台,http://www.xitv.top/021il.php?id=ttvzhonghe
-纬来日本台,http://www.xitv.top/021il.php?id=videolandjapan
-纬来体育台,http://www.xitv.top/021il.php?id=videolandsport
-纬来综合台,http://www.xitv.top/021il.php?id=videolandzonghe
-华艺中文台,http://www.xitv.top/021il.php?id=weishichinese_twn
-亚洲旅游 tlc asia,http://www.xitv.top/021il.php?id=tlc_twn
-亚洲美食,http://www.xitv.top/021il.php?id=afc_twn
-美食星球,http://www.xitv.top/021il.php?id=foodplanet_twn
-爱尔达体育3台,http://www.xitv.top/021il.php?id=eltasport3_twn
-爱尔达体育2台,http://www.xitv.top/021il.php?id=eltasport2_twn
-爱尔达影剧台,http://www.xitv.top/021il.php?id=eltayingju_twn
-ELta娱乐标限,http://ali.hlspull.yximgs.com/live/awei_aedyl.flv
-爱奇艺 iQiyi,http://www.xitv.top/021il.php?id=Qiyi
-博斯高球2 hd,http://www.xitv.top/021il.php?id=bosigolf2_twn
-博斯网球 HD,http://www.xitv.top/021il.php?id=bositennis_twn
-博斯无限,http://www.xitv.top/021il.php?id=bosiunlimited_twn
-博斯运动 1,http://www.xitv.top/021il.php?id=bosisport1_twn
-博斯运动 2,http://www.xitv.top/021il.php?id=bosisport2_twn
-大爱1台,http://www.xitv.top/021il.php?id=daai_twn
-大爱2台,http://www.xitv.top/021il.php?id=daai2_twn
-iNews TV,http://www.xitv.top/021il.php?id=Inewstv
-inews 新闻台,http://www.xitv.top/021il.php?id=inews_twn
-Astro QJ,http://www.xitv.top/021il.php?id=Quanjia
-美国 HOB标清,http://www.xitv.top/021il.php?id=hbohd_twn
-好莱坞电影HD,http://www.xitv.top/021il.php?id=hollywoodmovies_twn
-
+💝彎彎斯特250623,#genre# 
+寰宇新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8 
+寰宇财经斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/huanyutaiwan_twn/playlist.m3u8 
+年代新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/niandainews_twn/playlist.m3u8
+东森财经斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8 
+三立新聞,http://live.iill.top/youtube/@setnews/live
+鏡新聞,http://live.iill.top/youtube/@mnews-tw/live
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+非凡新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/feifannews_twn/playlist.m3u8 
+tvbs新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbs_n/playlist.m3u8 
+东森新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvnews/playlist.m3u8
+民视新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8 
+台视新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8 
+中视经典斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/zhongshi_twn/playlist.m3u8 
+中视闽南斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8 
+公视台语斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctv2_twn/playlist.m3u8 
+民视第一斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8 
+民视闽南斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8 
+民视台湾斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8 
+华视闽南斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctshd_twn/playlist.m3u8 
+台视闽南斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8 
+台视综合斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttvzhonghe/playlist.m3u8 
+tvbs欢乐斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8 
+tvbs闽南斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbs/playlist.m3u8 
+八大第一斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badafirst/playlist.m3u8 
+八大戏剧斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badadrama/playlist.m3u8 
+八大娱乐斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badaentertain/playlist.m3u8 
+八大综合斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/badazhonghe/playlist.m3u8 
+大爱贰台斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/daai2_twn/playlist.m3u8 
+大爱壹台斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/daai_twn/playlist.m3u8 
+东森超视斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvsuper/playlist.m3u8 
+东森电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvmovie/playlist.m3u8 
+东森戏剧斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvdrama/playlist.m3u8 
+东森洋片斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvwestern/playlist.m3u8 
+东森幼幼斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/yoyo_twn/playlist.m3u8 
+东森综合斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8 
+靖天国际斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8 
+靖天卡通斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8 
+龙华电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/xingwei_movie/playlist.m3u8 
+龙华电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/xingwei_movie/playlist.m3u8 
+龙华经典斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8 
+龙华偶像斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8 
+龙华戏剧斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8 
+龙华洋片斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8 
+龙祥电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8 
+龙祥电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8 
+美食星球斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/foodplanet_twn/playlist.m3u8 
+三立都会斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlidouhui/playlist.m3u8 
+三立闽南斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8 
+三立戏剧斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8 
+三立综合斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8 
+纬来电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandmovie/playlist.m3u8 
+纬来电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandmovie/playlist.m3u8 
+纬来精彩斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandspecial_twn/playlist.m3u8 
+纬来日本斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandjapan/playlist.m3u8 
+纬来体育斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandsport/playlist.m3u8 
+纬来育乐斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandyule/playlist.m3u8 
+纬来综合斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/videolandzonghe/playlist.m3u8 
+ELta影剧斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8 
+ELta综合斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltazonghe_twn/playlist.m3u8 
+EYE-旅游斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8 
+亚洲TLC斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tlc_twn/playlist.m3u8 
+亚洲旅游斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8 
+亚洲美食斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/afc_twn/playlist.m3u8 
+野生动物斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8 
+动物星球斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8 
+国家地理斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8 
+好莱电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8 
+好消息贰斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/good2_twn/playlist.m3u8 
+华艺综合斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8 
+美亚电影斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8 
+千禧经典斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Tvbclassic/playlist.m3u8 
+CInemax斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/cinemax_twn/playlist.m3u8 
+Discover斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8
+Eleven一斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/golfchannel_twn/playlist.m3u8 
+ELTA体1斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport_twn/playlist.m3u8 
+ELTA体3斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eltasport3_twn/playlist.m3u8 
+EYE-戏剧斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8 
+探索亚洲斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8 
+天映频道国特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Celestial/playlist.m3u8 
+天映频道粤特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ctv18_twn/playlist.m3u8 
+HBo高清斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/hbohd_twn/playlist.m3u8 
+HBo家庭斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/fyi_twn/playlist.m3u8 
+MTv高清斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/mtvhd_twn/playlist.m3u8 
+RTHK-31斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/rhk31_twn/playlist.m3u8 
+RTHK-32斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/rhk32_twn/playlist.m3u8 
+博斯高球贰特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosigolf2_twn/playlist.m3u8 
+博斯高球壹特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosigolf1_twn/playlist.m3u8 
+博斯网球斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bositennis_twn/playlist.m3u8 
+博斯无限斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosiunlimited_twn/playlist.m3u8 
+博斯运动贰特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosisport2_twn/playlist.m3u8 
+博斯运动壹特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8
 
 
 💝TW250408,#genre#
