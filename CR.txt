@@ -1,4 +1,4 @@
-50 & 198彎彎源,#genre#
+💝50 & 198彎彎源,#genre#
 寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/huanyuxinwen_twn/playlist.m3u8 
@@ -9,7 +9,6 @@
 非凡新聞2,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 中天新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 TVBS News,http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-三立新聞,http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 東森新聞,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D4407126144071261&ct=19344&tsum=c7212737de5e023823ea68610d709c14
 民視新聞,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 民視新聞,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
@@ -79,7 +78,6 @@ Arirang,http://198.16.100.186:8278/arirang_twn/playlist.m3u8?tid=MF5F39888618398
 寰宇财经斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/huanyutaiwan_twn/playlist.m3u8 
 年代新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/niandainews_twn/playlist.m3u8
 东森财经斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8 
-三立新聞,http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/feifannews_twn/playlist.m3u8 
 tvbs新闻斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/tvbs_n/playlist.m3u8 
@@ -171,7 +169,6 @@ RTHK-32斯特,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/
 💝TW250408,#genre#
 寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
-三立新聞,http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 東森新聞,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
