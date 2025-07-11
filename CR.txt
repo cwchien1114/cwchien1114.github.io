@@ -55,7 +55,9 @@ TLC'旅游,http://122.117.71.103:8628/TLC旅游.m3u8
 动物星球,http://122.117.71.103:8633/动物星球.m3u8
 
 💥全网通台①,#genre#
-寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
 非凡新闻台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 TVBS News 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
