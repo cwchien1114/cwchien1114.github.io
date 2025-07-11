@@ -1,6 +1,6 @@
 💥极速彎彎,#genre#
-寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,http://122.117.71.103:8685/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+寰宇新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 非凡新闻,http://122.117.71.103:8664/非凡新闻.m3u8
 东森新闻,http://122.117.71.103:8660/东森新闻.m3u8
 tvbs新闻,http://122.117.71.103:8662/tvbs新闻.m3u8
@@ -55,9 +55,8 @@ TLC'旅游,http://122.117.71.103:8628/TLC旅游.m3u8
 动物星球,http://122.117.71.103:8633/动物星球.m3u8
 
 💥全网通台①,#genre#
-寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
-寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+寰宇新聞,http://122.117.71.103:8685/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+寰宇新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
 非凡新闻台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 TVBS News 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
@@ -137,8 +136,8 @@ Hollywood Movies,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
 博斯网球 HD,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
 
 💝50 & 198彎彎源,#genre#
-寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,http://122.117.71.103:8685/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+寰宇新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 非凡新聞1,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 非凡新聞2,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 中天新聞台,http://aktv_stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
@@ -206,8 +205,8 @@ Arirang,http://198.16.100.186:8278/arirang_twn/playlist.m3u8?tid=MF5F39888618398
 
 
 💝TW250408,#genre#
-寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,http://122.117.71.103:8685/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+寰宇新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 東森新聞,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
@@ -250,8 +249,8 @@ HITs電影頻道,http://37.27.111.214:8080/live/28/hls.m3u8
 CINEMA-頻道,http://37.27.111.214:8080/live/30/hls.m3u8
 
 💝TW250306.#genre#
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
-寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
+寰宇新聞,http://122.117.71.103:8685/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+寰宇新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 東森新聞,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
 三立新聞,http://aktv_stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
@@ -445,8 +444,8 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 
 💝TW250116,#genre#
-寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,http://122.117.71.103:8685/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+寰宇新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 東森新聞,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
@@ -644,8 +643,8 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$1920x1080
 美亞電影,https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
 美亞電影,https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
 💝LiveTV,#genre#
-寰宇新聞,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞,http://122.117.71.103:8685/http/220.130.87.218:8081/hls/76/818/ch062.m3u8
+寰宇新聞,https://haoyunlai.serv00.net/Smartv-1.php?id=huanyuxinwen_twn
 東森新聞,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8
