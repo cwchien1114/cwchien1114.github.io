@@ -1,6 +1,9 @@
 💝50 & 198彎彎源,#genre#
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 非凡新聞1,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
 非凡新聞2,http://198.16.100.186:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 中天新聞,http://222.128.55.152:9080/live/fc.m3u8
 台視新聞,http://222.128.55.152:9080/live/ts.m3u8
 民視新聞,http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
@@ -58,6 +61,7 @@ HITs電影頻道,http://37.27.111.214:8080/live/28/hls.m3u8
 CINEMA-頻道,http://37.27.111.214:8080/live/30/hls.m3u8
 
 💝TW250306.#genre#
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
@@ -240,6 +244,7 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 生命電視,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 
 💝TW250116,#genre#
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -410,6 +415,7 @@ TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$1920x1080
 美亞電影,https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
 美亞電影,https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
 💝LiveTV,#genre#
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -517,6 +523,7 @@ FOCUS,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 💝litv241127,#genre#
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8
